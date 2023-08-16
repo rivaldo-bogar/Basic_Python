@@ -7,3 +7,5 @@ b = a; # operator indirect = menginisialisasi variabel baru dengan variabel sebe
 print("Nilai b = ",b)
 a = 10; # cover new value to vairiabel a
 print("Nilai a = ",a)
+myval = 250
+print(myval)
