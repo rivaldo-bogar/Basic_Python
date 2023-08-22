@@ -1,0 +1,14 @@
+bilbulat = 10 # integer
+bilfloat = 15.0 # float
+bilstr = "Myname Valdo_Mediatech" # string
+bilcomplex = 1j # complex
+billist = ["Angela","Gerungan","Valdo"] # list
+biltuple = ("WhiteHat","BlackHat") # tuple
+bilrange = range(5) # range
+bildict = {"My name":" Rivaldo ","Myage  ": 23}
+print("Integer = ", bilbulat, type(bilfloat))
+print("Float = ", bilfloat, type(bilfloat))
+print("String = ", bilstr, type(bilstr))
+print("String = ", billist, type(billist))
+print("String = ", biltuple, type(biltuple))
+print("String = ", bilrange, type(bilrange))
