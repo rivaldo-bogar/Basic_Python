@@ -9,3 +9,5 @@ a = 10; # cover new value to vairiabel a
 print("Nilai a = ",a)
 myval = 250
 print(myval)
+namaval = "Rivaldo Bogar"
+print('Nama saya :', namaval)
