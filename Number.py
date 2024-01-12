@@ -34,4 +34,12 @@ floatToInt = int(varFloat)
 intToString = str(varInt)
 print("\nConvert\n",intToFLoat,type(intToFLoat))
 print(floatToInt, type(floatToInt))
-print(intToString, type(intToString))     
+print(intToString, type(intToString))  
+# recap again
+
+print("\n\n\n My testing") 
+speed = 9.11;
+print(" Nilai speed adalah  : ", speed,type(speed))
+convertType = int(speed)
+print(" Nilai speed adalah  : ", convertType,type(convertType))
+
